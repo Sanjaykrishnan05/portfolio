@@ -328,7 +328,7 @@ nav {
 }
 
 .resume__container .section__header::before {
-  content: "Resume";
+  content: "Qualifications";
   left: 50%;
   transform: translateX(-50%);
 }
