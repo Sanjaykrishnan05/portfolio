@@ -166,7 +166,7 @@ nav {
       rgba(11, 20, 35, 0.8)
     ),
     url("header.jpg");
-  background-size: cover;
+  background-size: center;
   background-position: center center;
   background-repeat: no-repeat;
 }
